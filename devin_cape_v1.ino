@@ -13,7 +13,7 @@
 #define BUTTON_UP 6
 #define BUTTON_DOWN 3
 #define NUM_LEDS 158
-#define BRIGHTNESS 100
+#define BRIGHTNESS 40
 #define SATURATION 255
 
 /*** FASTLED SETUP ***/
